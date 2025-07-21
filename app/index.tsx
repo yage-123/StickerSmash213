@@ -1,6 +1,6 @@
-import React from 'react';
-import { View, Text, Button, StyleSheet } from 'react-native';
 import { Link } from 'expo-router';
+import React from 'react';
+import { Button, StyleSheet, Text, View } from 'react-native';
 
 export default function Home(): React.ReactElement {
   return (
